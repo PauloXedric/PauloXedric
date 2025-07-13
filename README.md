@@ -114,6 +114,23 @@ My goal is to become a professional Software Engineer who creates scalable, secu
 
 ---
 
+### 📌Featured Project
+
+#### DLARS — Late and Absence Request System  
+> A full-stack web application built with **Angular** and **ASP.NET Core** for managing student absence and lateness requests in an academic institution.
+
+🔗 [View Project Frontend Repository](https://github.com/PauloXedric/LateAndAbsenceRequestSystem-frontend) &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+🔗 [View Project Backend Repository](https://github.com/PauloXedric/LateAndAbsenceRequestSystem-backend)
+
+-  Supports multi-role approval (Student, Secretary, Chairperson, Director)  
+-  Secured using **JWT** and **ASP.NET Core Identity**  
+-  Document upload links and password reset via **token-secured URLs**  
+-  Email notifications with **SendGrid** and **EmailJS**  
+-  Clean architecture with reusable services and SignalR real-time updates  
+- 🗓 Scheduled background jobs for notification using **Hangfire**
+
+---
+
   #### Past Experience & Technologies
 
 <p align="left">
@@ -136,8 +153,9 @@ Before transitioning to full-stack web development with **ASP.NET Core** and **A
 #### Key Projects:
 - **CRM System & Warehouse Management System** — built using **Java Swing** in **Apache**
 - **POS System (JavaFX)** — built with **SceneBuilder** and **IntelliJ**
-- **POS System (PHP)** — created using **HTML**, **CSS**, **PHP**, **Javascript**, and **MySQL**
--  Configured and deployed using **Apache** and **XAMPP**
+- **POS System (PHP)** — created using **HTML**, **CSS**, **PHP**, **JavaScript**, and **MySQL**
+- **Multi-Enterprise POS System** — developed using **C# WinForms**  [View Project](https://github.com/PauloXedric/Multi-Enterprise-POS-System)
+
 
 These experiences gave me a strong foundation in:
 - **Object-Oriented Programming**
