@@ -67,16 +67,17 @@ My goal is to become a professional Software Engineer who creates scalable, secu
 ---
 
 ### Testing & Quality
-
+<p align="left">
+ <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/></a> &nbsp;&nbsp;&nbsp;
+ </p>
 ---
 
-### Tools & Platforms
+### Development Tools & Platforms
 
 <p align="left">
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;
   <a href="https://visualstudio.microsoft.com/vs/" target="_blank"><img src="https://img.shields.io/badge/Visual%20Studio%202022-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;
   <a href="https://swagger.io/tools/swagger-ui/" target="_blank"><img src="https://img.shields.io/badge/Swagger%20UI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/></a> &nbsp;&nbsp;&nbsp;
-  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/></a> &nbsp;&nbsp;&nbsp;
 </p>
 
 ---
