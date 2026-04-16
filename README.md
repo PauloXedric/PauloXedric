@@ -141,14 +141,40 @@ I build **web and mobile applications from the ground up** — scalable backends
 
 ---
 
-## GitHub Stats
+## What I Build
+
+> Most of my day-to-day work lives in **Azure DevOps** private repositories — what you see here on GitHub is a fraction of my actual output.
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%">
+
+**Web Applications**
+
+Full-stack systems built from database schema to deployment — REST APIs, business logic, and polished frontends that hold up under real production load.
+
+</td>
+<td align="center" valign="top" width="33%">
+
+**Mobile Applications**
+
+Cross-platform mobile apps with Flutter — offline-first architecture, clean state management, and native-quality UX on both iOS and Android.
+
+</td>
+<td align="center" valign="top" width="33%">
+
+**Integrations & Automation**
+
+Payment systems, real-time communication via WebSockets, scheduled background jobs, and third-party API orchestration (Stripe, Twilio, SendGrid).
+
+</td>
+</tr>
+</table>
+
+### Primary Languages
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloXedric&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloXedric&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=PauloXedric&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloXedric&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
